@@ -1,0 +1,23 @@
+YOU KNOW WHAT THEY SAY.  IF IT FITS IT SHIPS
+GIT Configurations
+# git config - - global
+# git config - - local
+# git config - - system
+# git config  - - global user.name “abcd”
+To see the result above use: # git config  user.name 
+# git config  - - global user.email “xyz@email.com”
+
+GIT
+create a git folder
+Create a first git sub-directory in the git folder
+change to first git sub-directory this directory. 
+create # git init
+To show items in git:  # git status
+To show master: # git branch
+To add file:  # git add (file name)
+To add mulitple files: # git add .
+To commit a file: # git commit -m “comments for other developers”
+To know all the commits in your git: # git log
+To compare your commits: # git diff (id of one commit id of another commit), you can revert the id’s it will change the color and which one displays first. 
+To see just one line: # git log - - oneline
+undo changes before you change or after you commit them. 
